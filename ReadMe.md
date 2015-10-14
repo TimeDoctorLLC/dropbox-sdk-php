@@ -108,3 +108,4 @@ A tiny web app that runs through the OAuth 2 authorization flow and then uses Dr
 ```
 ./vendor/bin/phpunit test/
 ```
+
